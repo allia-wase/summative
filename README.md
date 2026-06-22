@@ -29,9 +29,9 @@ No manual download is needed. A Colab file-upload fallback is included in case
 the fetch is unavailable.
 
 ## Repo structure
-├── Diabetes_Summative.ipynb       # full pipeline: EDA → preprocessing → 9 experiments → error analysis
+├── Summative.ipynb       # full pipeline: EDA → preprocessing → 9 experiments → error analysis
 
-├── Diabetes_Summative_Report.pdf  # written report (3,500–5,000 words, IEEE refs)
+├── Summative_Report.pdf  # written report (3,500–5,000 words, IEEE refs)
 
 ├── figures/                       # generated plots
 

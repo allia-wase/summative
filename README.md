@@ -33,11 +33,10 @@ the fetch is unavailable.
 
 ├── Summative_Report.pdf  # written report (3,500–5,000 words, IEEE refs)
 
-├── figures/                       # generated plots
-
 ├── requirements.txt
 
 └── README.md
+
 ## How to run
 
 1. Open `Diabetes_Summative.ipynb` in Jupyter or Google Colab.

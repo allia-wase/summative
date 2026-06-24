@@ -33,8 +33,6 @@ the fetch is unavailable.
 
 ├── Summative_Report.pdf  # written report (3,500–5,000 words, IEEE refs)
 
-├── requirements.txt
-
 └── README.md
 
 ## How to run
@@ -69,7 +67,7 @@ experiments through one evaluation harness:
 
 ## Demo video
 
-[INSERT VIDEO LINK]
+[[INSERT VIDEO LINK]](https://drive.google.com/file/d/1trtPlEiZ5K1PZY_gAGPhfAHuo4Y6L5PG/view?usp=drive_link)
 
 ## Report
 
